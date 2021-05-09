@@ -27,8 +27,8 @@ public class Main {
 		//...diðer kurslar için yapmak istersek ayný þekilde yazýyoruz.	
 	
 		DeleteFromList deleteFromList= new DeleteFromList();
-		DeleteFromList.deleteFromList(course1);
-		DeleteFromList.deleteFromList(course2);
+		deleteFromList.deleteFromList(course1);
+		deleteFromList.deleteFromList(course2);
 		//...diðer kurslar için yapmak istersek ayný þekilde yazýyoruz.	
 		
 	
